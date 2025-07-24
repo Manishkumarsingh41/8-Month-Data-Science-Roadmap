@@ -1,84 +1,172 @@
-# 🎯 8-Month Data Scientist Roadmap (Job-Ready )
-
-## 🗓 Month 1: Python Fundamentals
-- 🔹 Data Types, Loops, Functions
-- 🔹 Libraries: NumPy, Pandas
-- ❌ Avoid: Django, Flask
-- 🧪 Mini Project: COVID Dataset Analysis
-- 🛠 Tools: GitHub Copilot, ChatGPT
+**GitHub repository name suggestion** along with a **mind map-style README content**, with **months, topics, tools, and learning resource links**.
 
 ---
 
-## 🗓 Month 2: Statistics & Probability
-- 🔹 Mean, Median, Mode
-- 🔹 Variance, Standard Deviation
-- 🔹 Distributions
-- ❌ Avoid: Deep Theory
-- 🧪 Mini Project: Statistical Report
-- 🛠 Tools: IBM SPSS, AI Tools
+## ✅ GitHub Repository Name Suggestions:
+
+1. `DataScience-Roadmap-2025`
+2. `DS-Journey-To-12LPA`
+3. `8-Month-DS-Mastery`
+4. `ZeroToHero-DS-2025`
+5. `DS-Roadmap-Monthwise-Projects`
 
 ---
 
-## 🗓 Month 3: SQL & Data Handling
-- 🔹 SELECT, WHERE, GROUP BY, JOINs
-- 🔹 Aggregates & Subqueries
-- ❌ Avoid: Triggers, Procedures
-- 🧪 Mini Project: Sales Insights from Dataset
-- 🛠 Tools: BigQuery, Mode Analytics
+
+# 🎯 **Goal**: Become a Job-Ready Data Scientist by 2025
 
 ---
 
-## 🗓 Month 4: Pandas & NumPy (EDA)
-- 🔹 Data Cleaning: NaN, Duplicates
-- 🔹 Merging, Filtering, Grouping
-- ❌ Avoid: Rare Pandas Tricks
-- 🧪 Project: Full EDA (e.g., IPL/COVID data)
-- 🛠 Tools: PandasAI
+## 🌕 Month 1: **Master Python (Beginner-Friendly)**
+
+* **Focus**: Python Basics for Data Science
+* **Topics**:
+
+  * Data Types, Loops, Functions
+  * Libraries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
+* **Avoid**: Django, Flask, Web Dev
+* **Mini Project**: Analyze COVID dataset from [Kaggle](https://www.kaggle.com/datasets/imdevskp/covid-19-in-india)
+* **Tools**:
+
+  * [GitHub Copilot](https://github.com/features/copilot)
+  * [ChatGPT](https://chat.openai.com)
+* **Resources**:
+
+  * [W3Schools Python](https://www.w3schools.com/python/)
+  * [Python for Data Science (Coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 
 ---
 
-## 🗓 Month 5: Data Visualization
-- 🔹 Graphs: Bar, Line, Heatmaps
-- 🔹 Dashboards: Power BI / Tableau
-- ❌ Avoid: Advanced BI tools (for now)
-- 🧪 Project: Sales Dashboard / User Behavior Visual
-- 🛠 Tools: Tableau ExplainData, Seaborn
+## 🌕 Month 2: **Core Statistics & Probability**
+
+* **Focus**: Data Interpretation + Basic Stats
+* **Topics**:
+
+  * Mean, Median, Mode
+  * Variance, Std. Deviation, Distributions
+* **Avoid**: Theoretical math proofs
+* **Mini Project**: Statistical report on Titanic dataset
+* **Tools**:
+
+  * [IBM SPSS](https://www.ibm.com/products/spss-statistics)
+  * [Statwing](https://www.statwing.com/)
+* **Resources**:
+
+  * [Khan Academy Stats](https://www.khanacademy.org/math/statistics-probability)
+  * [StatQuest YouTube](https://www.youtube.com/user/joshstarmer)
 
 ---
 
-## 🗓 Month 6: Machine Learning Basics
-- 🔹 Algorithms: Linear, Logistic Regression, Decision Trees
-- 🔹 Train/Test Split, Accuracy, Confusion Matrix
-- ❌ Avoid: Deep Learning, XGBoost, SVM (for now)
-- 🧪 Project: House Price or Student Score Predictor
+## 🌕 Month 3: **SQL & Data Manipulation**
+
+* **Focus**: Querying + Understanding Datasets
+* **Topics**:
+
+  * SELECT, WHERE, GROUP BY, JOINs, Subqueries
+* **Avoid**: Stored Procedures, Views, Triggers
+* **Mini Project**: E-commerce insights dashboard
+* **Tools**:
+
+  * [Mode Analytics](https://mode.com/)
+  * [Google BigQuery](https://cloud.google.com/bigquery)
+* **Resources**:
+
+  * [SQLBolt](https://sqlbolt.com/)
+  * [LeetCode SQL Practice](https://leetcode.com/problemset/database/)
 
 ---
 
-## 🗓 Month 7: Projects + Portfolio
-- ✅ 2 Major End-to-End Projects
-- 🔹 Polish GitHub, Resume, LinkedIn
-- ✍️ Start Blogging / YouTube / Medium
-- 🏆 Optional: Kaggle Competitions
+## 🌕 Month 4: **Data Analysis with Pandas & NumPy**
+
+* **Focus**: EDA and Data Cleaning
+* **Topics**:
+
+  * Missing values, Grouping, Merging, Filtering
+* **Avoid**: Overuse of rare pandas hacks
+* **Project**: IPL or COVID full EDA
+* **Tools**:
+
+  * [PandasAI](https://github.com/gventuri/pandas-ai)
+* **Resources**:
+
+  * [DataCamp Pandas](https://www.datacamp.com/courses/pandas-foundations)
+  * [Kaggle EDA Tutorial](https://www.kaggle.com/code/fabiendaniel/eda-to-prediction-dietanic)
 
 ---
 
-## 🗓 Month 8: Resume & Interview Prep
-- 📃 Resume Optimization
-- 👥 Mock Interviews
-- 🧠 Project Explanation Practice
-- 🔁 Revise: Python, SQL, ML
-- 🚀 Apply: LinkedIn, Naukri, Internshala
+## 🌕 Month 5: **Data Visualization**
+
+* **Focus**: Storytelling with Data
+* **Topics**:
+
+  * Charts: Line, Bar, Pie, Heatmaps
+  * Dashboards: Power BI, Tableau
+* **Avoid**: Advanced dashboard customization (optional)
+* **Project**: Create dashboards for user/sales behavior
+* **Tools**:
+
+  * [Seaborn](https://seaborn.pydata.org/)
+  * [Matplotlib](https://matplotlib.org/)
+  * [Power BI](https://powerbi.microsoft.com/)
+  * [Tableau ExplainData](https://www.tableau.com/products/new-features/explaindata)
+* **Resources**:
+
+  * [Storytelling with Data](https://www.storytellingwithdata.com/)
+  * [Tableau Public](https://public.tableau.com/en-us/s/)
 
 ---
 
-## 🧰 Tools Throughout:
-- ChatGPT, GitHub Copilot
-- Pandas, NumPy, Scikit-Learn
-- Tableau / Power BI
-- SQL Tools (BigQuery, Mode)
-- Kaggle, Medium, LinkedIn
+## 🌕 Month 6: **Machine Learning Basics**
+
+* **Focus**: ML Algorithms Fundamentals
+* **Topics**:
+
+  * Linear Regression, Logistic Regression
+  * Decision Trees, Accuracy, Evaluation
+* **Avoid**: XGBoost, SVM, Deep Learning (for now)
+* **Project**: Predict scores, housing prices
+* **Tools**:
+
+  * [Scikit-Learn](https://scikit-learn.org/)
+* **Resources**:
+
+  * [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
+  * [StatQuest ML Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
 ---
 
-## 📌 Goal:
-**Become Job-Ready Data Scientist by 2025**  
+## 🌕 Month 7: **Portfolio & Projects**
+
+* **Focus**: Showcase Skills Publicly
+* **Action Items**:
+
+  * 2 Major Projects (end-to-end)
+  * Resume, GitHub, LinkedIn Polishing
+  * Write Blogs, Post on Medium or LinkedIn
+* **Optional**: Start Kaggle Competitions
+* **Resources**:
+
+  * [GitHub Docs](https://docs.github.com/)
+  * [Medium](https://medium.com/)
+  * [Kaggle](https://www.kaggle.com/)
+
+---
+
+## 🌕 Month 8: **Resume + Interview Prep**
+
+* **Focus**: Get Interview-Ready
+* **Tasks**:
+
+  * Mock Interviews
+  * Revisit Python, SQL, ML
+  * Learn to explain project stories
+  * Start applying (LinkedIn, Naukri, Internshala)
+* **Resources**:
+
+  * [InterviewBit](https://www.interviewbit.com/)
+  * [Naukri](https://www.naukri.com/)
+  * [Internshala](https://internshala.com/)
+  * [LinkedIn Profile Tips](https://www.linkedin.com/help/linkedin/answer/a507663)
+
+---
+
