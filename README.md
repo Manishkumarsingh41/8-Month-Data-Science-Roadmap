@@ -1,4 +1,4 @@
-**GitHub repository name suggestion** along with a **mind map-style README content**, with **months, topics, tools, and learning resource links**.
+**GitHub repository name suggestion** 
 
 ---
 
