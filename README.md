@@ -1,4 +1,4 @@
-# 🎯 8-Month Data Scientist Roadmap (Job-Ready | ₹12+ LPA Target)
+# 🎯 8-Month Data Scientist Roadmap (Job-Ready )
 
 ## 🗓 Month 1: Python Fundamentals
 - 🔹 Data Types, Loops, Functions
