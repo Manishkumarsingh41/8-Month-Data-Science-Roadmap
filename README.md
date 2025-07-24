@@ -1,6 +1,6 @@
 # 🎯 Roadmap to Become Job-Ready Data Scientist by end of 2025
 
-🧭 **Goal**: Master all core skills required to crack a ₹12+ LPA Data Science Job within 8 months.
+🧭 **Goal**: Master all core skills required to crack Data Science Job within 8 months.
 
 📍 **Visual Mindmap Link**:  
 🔗 [Whimsical Roadmap Mind Map](https://whimsical.com/roadmap-to-become-job-ready-data-scientist-by-2025-12-lpa-EFxsH1cZyyUmuKgGaSrzGm@8ADn3nfZACaddj2ayEexEwLdicCLJgbKXigZ)
